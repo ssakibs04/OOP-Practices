@@ -1,0 +1,7 @@
+E:\C Sharp\OOP Bootcamp\Student Data\OOP\bin\Debug\OOP.exe.config
+E:\C Sharp\OOP Bootcamp\Student Data\OOP\bin\Debug\OOP.exe
+E:\C Sharp\OOP Bootcamp\Student Data\OOP\bin\Debug\OOP.pdb
+E:\C Sharp\OOP Bootcamp\Student Data\OOP\obj\Debug\Student Data.csproj.AssemblyReference.cache
+E:\C Sharp\OOP Bootcamp\Student Data\OOP\obj\Debug\Student Data.csproj.CoreCompileInputs.cache
+E:\C Sharp\OOP Bootcamp\Student Data\OOP\obj\Debug\OOP.exe
+E:\C Sharp\OOP Bootcamp\Student Data\OOP\obj\Debug\OOP.pdb
