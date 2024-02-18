@@ -1,0 +1,7 @@
+E:\C Sharp\OOP Bootcamp\InstanceMember\InstanceMember\bin\Debug\InstanceMember.exe.config
+E:\C Sharp\OOP Bootcamp\InstanceMember\InstanceMember\bin\Debug\InstanceMember.exe
+E:\C Sharp\OOP Bootcamp\InstanceMember\InstanceMember\bin\Debug\InstanceMember.pdb
+E:\C Sharp\OOP Bootcamp\InstanceMember\InstanceMember\obj\Debug\InstanceMember.csproj.AssemblyReference.cache
+E:\C Sharp\OOP Bootcamp\InstanceMember\InstanceMember\obj\Debug\InstanceMember.csproj.CoreCompileInputs.cache
+E:\C Sharp\OOP Bootcamp\InstanceMember\InstanceMember\obj\Debug\InstanceMember.exe
+E:\C Sharp\OOP Bootcamp\InstanceMember\InstanceMember\obj\Debug\InstanceMember.pdb

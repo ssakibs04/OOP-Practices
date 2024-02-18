@@ -1,0 +1,14 @@
+E:\Asp.Net Core\Destructors\Destructors\bin\Debug\Destructors.exe.config
+E:\Asp.Net Core\Destructors\Destructors\bin\Debug\Destructors.exe
+E:\Asp.Net Core\Destructors\Destructors\bin\Debug\Destructors.pdb
+E:\Asp.Net Core\Destructors\Destructors\obj\Debug\Destructors.csproj.AssemblyReference.cache
+E:\Asp.Net Core\Destructors\Destructors\obj\Debug\Destructors.csproj.CoreCompileInputs.cache
+E:\Asp.Net Core\Destructors\Destructors\obj\Debug\Destructors.exe
+E:\Asp.Net Core\Destructors\Destructors\obj\Debug\Destructors.pdb
+E:\C Sharp\OOP Practices\Destructors\Destructors\bin\Debug\Destructors.exe.config
+E:\C Sharp\OOP Practices\Destructors\Destructors\bin\Debug\Destructors.exe
+E:\C Sharp\OOP Practices\Destructors\Destructors\bin\Debug\Destructors.pdb
+E:\C Sharp\OOP Practices\Destructors\Destructors\obj\Debug\Destructors.csproj.AssemblyReference.cache
+E:\C Sharp\OOP Practices\Destructors\Destructors\obj\Debug\Destructors.csproj.CoreCompileInputs.cache
+E:\C Sharp\OOP Practices\Destructors\Destructors\obj\Debug\Destructors.exe
+E:\C Sharp\OOP Practices\Destructors\Destructors\obj\Debug\Destructors.pdb

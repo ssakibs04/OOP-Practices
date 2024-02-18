@@ -1,0 +1,7 @@
+E:\C Sharp\OOP Practices\Encapsulasion Using Properties\Encapsulasion Using Properties\bin\Debug\Encapsulasion Using Properties.exe.config
+E:\C Sharp\OOP Practices\Encapsulasion Using Properties\Encapsulasion Using Properties\bin\Debug\Encapsulasion Using Properties.exe
+E:\C Sharp\OOP Practices\Encapsulasion Using Properties\Encapsulasion Using Properties\bin\Debug\Encapsulasion Using Properties.pdb
+E:\C Sharp\OOP Practices\Encapsulasion Using Properties\Encapsulasion Using Properties\obj\Debug\Encapsulasion Using Properties.csproj.AssemblyReference.cache
+E:\C Sharp\OOP Practices\Encapsulasion Using Properties\Encapsulasion Using Properties\obj\Debug\Encapsulasion Using Properties.csproj.CoreCompileInputs.cache
+E:\C Sharp\OOP Practices\Encapsulasion Using Properties\Encapsulasion Using Properties\obj\Debug\Encapsulasion Using Properties.exe
+E:\C Sharp\OOP Practices\Encapsulasion Using Properties\Encapsulasion Using Properties\obj\Debug\Encapsulasion Using Properties.pdb

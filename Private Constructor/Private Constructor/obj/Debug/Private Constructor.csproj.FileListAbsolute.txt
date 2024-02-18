@@ -1,0 +1,7 @@
+E:\Asp.Net Core\Private Constructor\Private Constructor\bin\Debug\Private Constructor.exe.config
+E:\Asp.Net Core\Private Constructor\Private Constructor\bin\Debug\Private Constructor.exe
+E:\Asp.Net Core\Private Constructor\Private Constructor\bin\Debug\Private Constructor.pdb
+E:\Asp.Net Core\Private Constructor\Private Constructor\obj\Debug\Private Constructor.csproj.AssemblyReference.cache
+E:\Asp.Net Core\Private Constructor\Private Constructor\obj\Debug\Private Constructor.csproj.CoreCompileInputs.cache
+E:\Asp.Net Core\Private Constructor\Private Constructor\obj\Debug\Private Constructor.exe
+E:\Asp.Net Core\Private Constructor\Private Constructor\obj\Debug\Private Constructor.pdb

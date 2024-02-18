@@ -1,0 +1,7 @@
+E:\C Sharp\OOP Bootcamp\classes_and_objects\classes_and_objects\bin\Debug\classes_and_objects.exe.config
+E:\C Sharp\OOP Bootcamp\classes_and_objects\classes_and_objects\bin\Debug\classes_and_objects.exe
+E:\C Sharp\OOP Bootcamp\classes_and_objects\classes_and_objects\bin\Debug\classes_and_objects.pdb
+E:\C Sharp\OOP Bootcamp\classes_and_objects\classes_and_objects\obj\Debug\constructor.csproj.AssemblyReference.cache
+E:\C Sharp\OOP Bootcamp\classes_and_objects\classes_and_objects\obj\Debug\constructor.csproj.CoreCompileInputs.cache
+E:\C Sharp\OOP Bootcamp\classes_and_objects\classes_and_objects\obj\Debug\classes_and_objects.exe
+E:\C Sharp\OOP Bootcamp\classes_and_objects\classes_and_objects\obj\Debug\classes_and_objects.pdb
